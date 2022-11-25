@@ -18,7 +18,7 @@ import javax.servlet.http.*;
 
 /**
  *
- * @author phamh
+ * @author J.Pointer
  */
 public class AdminFilter implements Filter {
     public void doFilter(ServletRequest request, ServletResponse response,
